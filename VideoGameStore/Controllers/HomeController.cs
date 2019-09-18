@@ -24,7 +24,7 @@ namespace VideoGameStore.Controllers
 
         public IActionResult Contact()
         {
-            ViewData["Message"] = "Your contact page.";
+            ViewData["Message"] = "Your contact page new modification.";
 
             return View();
         }
